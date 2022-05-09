@@ -1,0 +1,16 @@
+##No conciderar archivo *credencial.txt
+credenciales.txt
+
+##No conciderar carpeta *prueba_local
+prueba_local\
+
+##No se debe considerar ningun txt
+*.txt
+##Ni imagenes
+*.jpg
+*.png
+*.gif
+*.svg
+##Ni binarios
+*.exe
+*.dll
